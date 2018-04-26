@@ -16,6 +16,9 @@ public class Exercici8 {
         File f1 = new File(fitxer1);
         File f2 = new File(fitxer2);
 
+
+
+
         System.out.println(f1.compareTo(f2));
     }
 }
